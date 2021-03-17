@@ -1,1 +1,1 @@
-var abcd_12b;
+var abcd_12b=0;
